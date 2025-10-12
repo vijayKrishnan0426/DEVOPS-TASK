@@ -2,3 +2,5 @@
 How do I find my CPU/memory usage of my server?.  top or htop , free-h
 Test the connectivity between 2 nodes? ping guvi.com
 I have deployed an application in guvi.com:9000, and logs show my app is running, but I’m unable to view the page. Check whether my port is open or not? sudo ss -tulnp | grep 9000      , sudo ufw sudo , telent guvi.900
+COPY THIS LINK TO SEE OUTPUT 
+https://1drv.ms/w/c/92bce3ace3a0a54e/ER4G5UVdw6FOkd7-byFY15wBVgRF36gCs8dq6vzX7CnUsg?e=aHSA70 
